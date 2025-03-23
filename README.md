@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarishTech22
+- 👋 Hi, I’m @Harish S
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning flutter and dart
 - 💞️ I’m looking to collaborate on ...
